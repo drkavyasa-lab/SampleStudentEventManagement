@@ -1,5 +1,5 @@
 # Student Event Management System
-
+Random edit blah blah
 A simple project for practising Git branching and merging.
 
 Features:
